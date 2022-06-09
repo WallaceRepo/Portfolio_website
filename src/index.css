@@ -1,0 +1,24 @@
+body, 
+#root, .MuiContainer-root {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lora";
+    color: #5b5e5e;
+    font-family: 'Lora',sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.3rem;
+}
+p {
+  margin: 0 0 30px;
+  padding: 0;
+}
+* {
+    box-sizing: border-box;
+}
+/* @font-face {
+    font-family: "Rubic";
+    src: local("Rubic"),
+      url("./assets/font/Rubik-VariableFont_wght.ttf") format("truetype");
+    font-weight: normal;
+  } */

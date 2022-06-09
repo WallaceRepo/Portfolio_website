@@ -1,0 +1,40 @@
+.navbar {
+  position: fixed; 
+  width: 100%;
+  z-index: 888;
+ /* display: flex; 
+ justify-content: space-around;
+ */
+  height: auto;
+  background-color: #6a11cb;
+  
+}
+.navbar a {
+    text-decoration: none;
+}
+.navbar a:hover {
+  color:#24e2ff;
+}
+.navbar .active {
+  border-bottom: 1px solid #24e2ff;
+}
+.navbar h2 {
+  color:#fff;
+}
+
+.projectLink {
+   text-decoration: none;
+   cursor:pointer;
+}
+.projectLink p {
+  color: #5b5e5e;
+}
+.projectLink:hover h4 {
+   color: #6a11cb;
+}
+
+
+
+
+
+
